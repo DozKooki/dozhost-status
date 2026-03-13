@@ -1,21 +1,41 @@
 [
   {
-    "name": "DozHost Panel",
+    "name": "DozHost Home",
     "url": "https://dozhost.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/dozhost.qzz.io.ico",
-    "slug": "doz-host-panel",
+    "slug": "doz-host-home",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4522,
-    "timeDay": 4522,
-    "timeWeek": 4522,
-    "timeMonth": 4522,
-    "timeYear": 4522,
+    "time": 4665,
+    "timeDay": 4665,
+    "timeWeek": 4665,
+    "timeMonth": 4665,
+    "timeYear": 4665,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "DozHost Client Area",
+    "url": "https://billing.dozhost.qzz.io",
+    "icon": "https://icons.duckduckgo.com/ip3/billing.dozhost.qzz.io.ico",
+    "slug": "doz-host-client-area",
+    "status": "down",
+    "uptime": "36.02%",
+    "uptimeDay": "36.02%",
+    "uptimeWeek": "36.02%",
+    "uptimeMonth": "36.02%",
+    "uptimeYear": "36.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-03-13": 0
+    }
   },
   {
     "name": "DozHost Status Page",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 211,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 2651,
+    "timeDay": 2651,
+    "timeWeek": 2651,
+    "timeMonth": 2651,
+    "timeYear": 2651,
     "dailyMinutesDown": {}
   }
 ]
