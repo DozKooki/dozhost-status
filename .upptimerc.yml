@@ -3,11 +3,16 @@ owner: DozKooki # Your GitHub organization or username, where this repository li
 repo: dozhost-status # The name of this repository
 
 sites:
-  - name: DozHost Panel
+  - name: DozHost Home
     url: https://dozhost.qzz.io
+  - name: DozHost Client Area
+    url: https://billing.dozhost.qzz.io
   - name: DozHost Status Page
     url: https://status.dozhost.qzz.io
-
+notification:
+  - provider: telegram
+    botToken: 8754506309:AAGPV12douNPV5mMufIUblXXZG1gXSQIibQ
+    chatId: 8256214643
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -19,8 +24,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/DozKooki/dozhost-status
+    - title: DozHost
+      href: https://dozhost.qzz.io
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
