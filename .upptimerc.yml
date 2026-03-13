@@ -3,8 +3,10 @@ owner: DozKooki # Your GitHub organization or username, where this repository li
 repo: dozhost-status # The name of this repository
 
 sites:
-  - name: DozHost Panel Site
+  - name: DozHost Panel
     url: https://dozhost.qzz.io
+  - name: DozHost Status Page
+    url: https://status.dozhost.qzz.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
