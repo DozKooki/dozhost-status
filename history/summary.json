@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.dozhost.qzz.io.ico",
     "slug": "doz-host-client-area",
     "status": "down",
-    "uptime": "95.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "95.59%",
+    "uptime": "95.51%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "95.72%",
+    "uptimeYear": "95.51%",
     "time": 2202,
     "timeDay": 610,
     "timeWeek": 550,
@@ -85,7 +85,8 @@
       "2026-05-30": 150,
       "2026-05-31": 60,
       "2026-06-06": 188,
-      "2026-06-07": 76
+      "2026-06-07": 76,
+      "2026-06-10": 105
     }
   },
   {
