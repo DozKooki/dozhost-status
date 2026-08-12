@@ -25,17 +25,17 @@
     "url": "https://billing.dozhost.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/billing.dozhost.qzz.io.ico",
     "slug": "doz-host-client-area",
-    "status": "down",
-    "uptime": "95.37%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "95.37%",
-    "time": 1524,
-    "timeDay": 673,
-    "timeWeek": 608,
+    "status": "up",
+    "uptime": "95.34%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.34%",
+    "time": 1520,
+    "timeDay": 637,
+    "timeWeek": 607,
     "timeMonth": 621,
-    "timeYear": 1524,
+    "timeYear": 1520,
     "dailyMinutesDown": {
       "2026-03-14": 397,
       "2026-03-13": 617,
@@ -114,7 +114,8 @@
       "2026-08-09": 140,
       "2026-08-08": 8,
       "2026-08-10": 57,
-      "2026-08-11": 82
+      "2026-08-11": 82,
+      "2026-08-12": 74
     }
   },
   {
